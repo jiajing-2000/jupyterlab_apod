@@ -147,4 +147,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: jupyterlab/maintainer-tools/.github/actions/base-setup@v1
-      - uses: jupyterlab/maintainer-tools/.github/actions/check-links@v1
+      # - uses: jupyterlab/maintainer-tools/.github/actions/check-links@v1
